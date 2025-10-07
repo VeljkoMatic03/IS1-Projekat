@@ -1,0 +1,3 @@
+com\mycompany\server_app\JAXRSConfiguration.class
+com\mycompany\server_app\resources\JavaEE8Resource.class
+com\mycompany\server_app\resources\MestoREST.class
